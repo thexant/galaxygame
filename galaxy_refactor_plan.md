@@ -478,15 +478,3 @@ galaxy-core/
 - **Week 6+**: Advanced Features & GUIs
 
 Total estimated time: 6-8 weeks for full refactor with basic GUI options.
-
----
-
-## Next Steps
-
-1. Set up new repository
-2. Copy this plan to README.md
-3. Create issue for each phase
-4. Start with Phase 1: Database extraction
-5. Set up CI/CD pipeline early
-
-Remember: Each phase should produce working code that can be tested independently!
